@@ -81,7 +81,7 @@ My research interests include machine learning systems, high-performance computi
 
 - <span class="venue-badge venue-badge--top">ATC'26</span> **STRIDE: Efficient Secure Transformer Inference via Inter-Operator Protocol and Operator Co-Design**  
   Zhengyi Li^, **Yangjie Zhou^**, Zihan Liu, Ziyu Xiao, Kang Yang, Jiaping Gui, Yu Feng, Yun Lin, Jin Song Dong, Yu Yu, Minyi Guo, Ning Liu, Jingwen Leng  
-  <small>USENIX Annual Technical Conference (^Co-first authors)</small>
+  <small>The 2026 ACM SIGOPS Annual Technical Conference (^Co-first authors)</small>
 
 - <span class="venue-badge venue-badge--top">ASE'26</span> **AlphaCu: A Transformation-Driven Synthesis Framework for LLM-Based GPU Kernel Generation**  
   **Yangjie Zhou**, Xing Ma, Zihan Liu, Qing Wang, Weihao Cui, Wu Sun, Hanjing Wang, Binhang Qi, Jingwen Leng, Yun Lin, Minyi Guo, Jin Song Dong  

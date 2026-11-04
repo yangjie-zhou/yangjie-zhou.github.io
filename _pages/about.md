@@ -80,6 +80,18 @@ My research interests include machine learning systems, high-performance computi
 
 <div class="pub-list" markdown="1">
 
+- <span class="venue-badge venue-badge--top">HPCA'27</span> **Palette: Joint Kernel Fusion and Warp Specialization via Hardware-Centric Tile Optimization on GPUs**  
+  Xinhao Luo, Zihan Liu, **Yangjie Zhou\***, Chiheng Jin, Yilu Huang, Ziyu Huang, Guanlin Zhu, Shixuan Sun, Yu Feng, Anbang Wu, Xiu Lin, Yinghao Yu, Guanjun Jiang, Mingcheng Wan, Jingwen Leng\*, Minyi Guo  
+  <small>The 33rd IEEE International Symposium on High-Performance Computer Architecture (\*Co-corresponding authors)</small>
+
+- <span class="venue-badge venue-badge--top">HPCA'27</span> **ETON: Emulating Tensor-Core Numerics for Reproducible Low-Bit LLM Inference**  
+  Weiming Hu, Zihan Zhang, Zihan Liu, **Yangjie Zhou\***, Yu Feng, Shixuan Sun, Haoyan Zhang, Cong Guo, Jinyang Liu, Ning Liu, Jing Yang, Yun Lin, Jin Song Dong, Minyi Guo, Jingwen Leng\*  
+  <small>The 33rd IEEE International Symposium on High-Performance Computer Architecture (\*Co-corresponding authors)</small>
+
+- <span class="venue-badge">NPC'26</span> **CodeTrustEval: Trustworthy Performance Evaluation for AI-Generated Code**  
+  Sun Wu^, **Yangjie Zhou^**, Xing Ma, Zihan Liu, Weiming Hu, Jinyu Liu, Yuelang Li, Jingwen Leng\*, Yu Feng, Shixuan Sun, Anbang Wu, Quan Chen, Li Li, Binhang Qi, Yun Lin\*, Jin Song Dong, Minyi Guo  
+  <small>The 20th IFIP International Conference on Network and Parallel Computing (^Co-first authors, \*Corresponding authors)</small>
+
 - <span class="venue-badge venue-badge--top">ATC'26</span> **STRIDE: Efficient Secure Transformer Inference via Inter-Operator Protocol and Operator Co-Design**  
   Zhengyi Li^, **Yangjie Zhou^**, Zihan Liu, Ziyu Xiao, Kang Yang, Jiaping Gui, Yu Feng, Yun Lin, Jin Song Dong, Yu Yu, Minyi Guo, Ning Liu, Jingwen Leng  
   <small>The 2026 ACM SIGOPS Annual Technical Conference (^Co-first authors)</small>
